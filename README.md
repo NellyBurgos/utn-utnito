@@ -1,5 +1,6 @@
 <h1>
-  <img src="../../images/utnito-logo.svg" alt="UTNito logo" width="42" align="left" style="margin-right:10px;" />
+  <img src="frontend/chat-app/src/assets/utnito-logo.svg" alt="UTNito logo" width="42" align="left"
+  style="margin-right:10px;" />
   utn-utnito full project
 </h1>
 
